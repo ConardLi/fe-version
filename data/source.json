@@ -1,0 +1,97 @@
+[
+  {
+    "type": "MVC Frameworks",
+    "data": [
+      {
+        "name": "React",
+        "home": "https://reactjs.org/",
+        "changelog": "https://github.com/facebook/react/releases",
+        "desc": "A library for building user interfaces.",
+        "type": "npm",
+        "npm": "react"
+      },
+      {
+        "name": "Vue",
+        "home": "https://github.com/vuejs/vue",
+        "changelog": "https://github.com/vuejs/vue/releases",
+        "desc": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+        "type": "npm",
+        "npm": "vue"
+      },
+      {
+        "name": "Angular",
+        "home": "https://github.com/angular/angular.js",
+        "changelog": "https://github.com/angular/angular.js/releases",
+        "desc": "HTML enhanced for web apps!",
+        "type": "npm",
+        "npm": "angular"
+      }
+    ]
+  },
+  {
+    "type": "Node",
+    "data": [
+      {
+        "name": "Node.Js",
+        "home": "https://github.com/nodejs/node",
+        "changelog": "https://github.com/nodejs/node/releases",
+        "desc": "Node.js JavaScript runtime",
+        "type": "npm",
+        "npm": "node"
+      }
+    ]
+  },
+  {
+    "type": "Package Managers",
+    "data": [
+      {
+        "name": "Npm",
+        "home": "https://www.npmjs.com/",
+        "changelog": "https://github.com/npm/cli/releases",
+        "desc": "the package manager for JavaScript",
+        "type": "npm",
+        "npm": "npm"
+      },
+      {
+        "name": "Yarn",
+        "home": "https://yarnpkg.com/",
+        "changelog": "https://github.com/yarnpkg/yarn/releases",
+        "desc": "Fast, reliable, and secure dependency management.",
+        "type": "npm",
+        "npm": "yarn"
+      }
+    ]
+  },
+  {
+    "type": "Bundlers",
+    "data": [
+      {
+        "name": "Rollup",
+        "home": "https://github.com/rollup/rollup",
+        "changelog": "https://github.com/rollup/rollup/releases",
+        "desc": "Next-generation ES module bundler",
+        "type": "npm",
+        "npm": "rollup"
+      },
+      {
+        "name": "webpack",
+        "home": "https://github.com/webpack/webpack",
+        "changelog": "https://github.com/webpack/webpack/releases",
+        "desc": "A bundler for javascript and friends.",
+        "type": "npm",
+        "npm": "webpack"
+      }
+    ]
+  },
+  {
+    "type": "Browser",
+    "data": [
+      {
+        "name": "Chrome",
+        "home": "https://www.google.com/chrome/",
+        "changelog": "https://support.google.com/chrome/a/answer/7679408?hl=en",
+        "desc": "A cross-platform web browser developed by Google."
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "React": {
+    "version": "16.12.0",
+    "date": "2019-11-15"
+  },
+  "Vue": {
+    "version": "2.6.11",
+    "date": "2019-12-14"
+  },
+  "Angular": {
+    "version": "1.7.9",
+    "date": "2019-11-19"
+  },
+  "Node.Js": {
+    "version": "13.8.0",
+    "date": "2020-02-10"
+  },
+  "Npm": {
+    "version": "6.13.7",
+    "date": "2020-01-29"
+  },
+  "Yarn": {
+    "version": "1.22.0",
+    "date": "2020-02-06"
+  },
+  "Rollup": {
+    "version": "1.31.1",
+    "date": "2020-02-14"
+  },
+  "webpack": {
+    "version": "4.41.6",
+    "date": "2020-02-11"
+  },
+  "Chrome": {
+    "version": "80",
+    "date": "February 4, 2020"
+  }
+}
