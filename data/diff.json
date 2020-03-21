@@ -1,44 +1,38 @@
 {
   "React": {
-    "version": "16.13.0",
-    "date": "2020-02-27",
-    "preVersion": "16.12.0",
-    "preDate": "2019-11-15"
+    "version": "16.13.1",
+    "date": "2020-03-20",
+    "preVersion": "16.13.0",
+    "preDate": "2020-02-27"
   },
   "Preact": {
-    "version": "10.3.3",
-    "date": "2020-03-02",
-    "preVersion": "10.3.2",
-    "preDate": "2020-02-15"
+    "version": "10.3.4",
+    "date": "2020-03-12",
+    "preVersion": "10.3.3",
+    "preDate": "2020-03-02"
   },
-  "Node.Js": {
-    "version": "13.10.1",
-    "date": "2020-03-06",
-    "preVersion": "13.8.0",
-    "preDate": "2020-02-10"
+  "Vuex": {
+    "version": "3.1.3",
+    "date": "2020-03-09",
+    "preVersion": "3.1.2",
+    "preDate": "2019-11-10"
   },
   "Npm": {
-    "version": "6.14.2",
-    "date": "2020-03-04",
-    "preVersion": "6.13.7",
-    "preDate": "2020-01-29"
+    "version": "6.14.3",
+    "date": "2020-03-19",
+    "preVersion": "6.14.2",
+    "preDate": "2020-03-04"
   },
   "Yarn": {
-    "version": "1.22.1",
-    "date": "2020-03-07",
-    "preVersion": "1.22.0",
-    "preDate": "2020-02-06"
+    "version": "1.22.4",
+    "date": "2020-03-10",
+    "preVersion": "1.22.1",
+    "preDate": "2020-03-07"
   },
   "Rollup": {
-    "version": "2.0.2",
-    "date": "2020-03-07",
-    "preVersion": "1.31.1",
-    "preDate": "2020-02-14"
-  },
-  "webpack": {
-    "version": "4.42.0",
-    "date": "2020-03-02",
-    "preVersion": "4.41.6",
-    "preDate": "2020-02-11"
+    "version": "2.1.0",
+    "date": "2020-03-18",
+    "preVersion": "2.0.2",
+    "preDate": "2020-03-07"
   }
 }
