@@ -1,1 +1,44 @@
-{}
+{
+  "React": {
+    "version": "16.13.0",
+    "date": "2020-02-27",
+    "preVersion": "16.12.0",
+    "preDate": "2019-11-15"
+  },
+  "Preact": {
+    "version": "10.3.3",
+    "date": "2020-03-02",
+    "preVersion": "10.3.2",
+    "preDate": "2020-02-15"
+  },
+  "Node.Js": {
+    "version": "13.10.1",
+    "date": "2020-03-06",
+    "preVersion": "13.8.0",
+    "preDate": "2020-02-10"
+  },
+  "Npm": {
+    "version": "6.14.2",
+    "date": "2020-03-04",
+    "preVersion": "6.13.7",
+    "preDate": "2020-01-29"
+  },
+  "Yarn": {
+    "version": "1.22.1",
+    "date": "2020-03-07",
+    "preVersion": "1.22.0",
+    "preDate": "2020-02-06"
+  },
+  "Rollup": {
+    "version": "2.0.2",
+    "date": "2020-03-07",
+    "preVersion": "1.31.1",
+    "preDate": "2020-02-14"
+  },
+  "webpack": {
+    "version": "4.42.0",
+    "date": "2020-03-02",
+    "preVersion": "4.41.6",
+    "preDate": "2020-02-11"
+  }
+}

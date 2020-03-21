@@ -25,6 +25,35 @@
         "desc": "HTML enhanced for web apps!",
         "type": "npm",
         "npm": "angular"
+      },
+      {
+        "name": "Preact",
+        "home": "https://github.com/preactjs/preact",
+        "changelog": "https://github.com/preactjs/preact/releases",
+        "desc": "Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+        "type": "npm",
+        "npm": "preact"
+      }
+    ]
+  },
+  {
+    "type": "State Management",
+    "data": [
+      {
+        "name": "Redux",
+        "home": "https://github.com/reduxjs/redux",
+        "changelog": "https://github.com/vuejs/vuex/releases",
+        "desc": "Predictable state container for JavaScript apps",
+        "type": "npm",
+        "npm": "redux"
+      },
+      {
+        "name": "Vuex",
+        "home": "https://github.com/vuejs/vuex",
+        "changelog": "https://github.com/reduxjs/redux/releases",
+        "desc": "Centralized State Management for Vue.js.",
+        "type": "npm",
+        "npm": "vuex"
       }
     ]
   },
@@ -80,6 +109,27 @@
         "desc": "A bundler for javascript and friends.",
         "type": "npm",
         "npm": "webpack"
+      }
+    ]
+  },
+  {
+    "type": "Tools",
+    "data": [
+      {
+        "name": "Eslit",
+        "home": "https://eslint.org",
+        "changelog": "https://github.com/eslint/eslint/releases",
+        "desc": "Find and fix problems in your JavaScript code.",
+        "type": "npm",
+        "npm": "eslint"
+      },
+      {
+        "name": "Puppeteer",
+        "home": "https://github.com/puppeteer/puppeteer",
+        "changelog": "https://github.com/puppeteer/puppeteer/releases",
+        "desc": "Headless Chrome Node.js API.",
+        "type": "npm",
+        "npm": "puppeteer"
       }
     ]
   },

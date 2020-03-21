@@ -19,3 +19,15 @@ More projects are being added. Welcome PR...
 - [webpack](https://github.com/webpack/webpack)：「[Version：4.41.6](https://github.com/webpack/webpack/releases)」「Date：2020-02-11」A bundler for javascript and friends.
  ## Browser
 - [Chrome](https://www.google.com/chrome/)：「[Version：80](https://support.google.com/chrome/a/answer/7679408?hl=en)」「Date：February 4, 2020」A cross-platform web browser developed by Google.
+
+
+
+## 2020-03-21
+
+- React:「16.12.0(2019-11-15)」——>「16.13.0(2020-02-27)」
+- Preact:「10.3.2(2020-02-15)」——>「10.3.3(2020-03-02)」
+- Node.Js:「13.8.0(2020-02-10)」——>「13.10.1(2020-03-06)」
+- Npm:「6.13.7(2020-01-29)」——>「6.14.2(2020-03-04)」
+- Yarn:「1.22.0(2020-02-06)」——>「1.22.1(2020-03-07)」
+- Rollup:「1.31.1(2020-02-14)」——>「2.0.2(2020-03-07)」
+- webpack:「4.41.6(2020-02-11)」——>「4.42.0(2020-03-02)」
