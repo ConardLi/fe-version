@@ -28,6 +28,7 @@ function diffMD() {
   for (let i = 0; i < keys.length; i++) {
     const key = keys[i];
     const { version, preVersion, date, preDate } = diff[key];
+    console.log(version, preVersion, date, preDate);
     text += `\n- ${key}:「${preVersion}(${preDate})」——>「${version}(${date})」`;
   }
   fs.writeFileSync(path.resolve(__dirname, `../diff/${name}.md`), text);

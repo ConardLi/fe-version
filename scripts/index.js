@@ -7,7 +7,7 @@ async function main() {
   
   // await getVersion();
 
-  diff();
+  // diff();
 
   json2md();
 

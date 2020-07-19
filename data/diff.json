@@ -1,1 +1,56 @@
-{"Preact":{"version":"10.4.1","date":"2020-04-21","preVersion":"10.3.4","preDate":"2020-03-12"},"Vuex":{"version":"3.4.0","date":"2020-05-11","preVersion":"3.1.3","preDate":"2020-03-09"},"Node.Js":{"version":"14.2.0","date":"2020-05-06","preVersion":"13.12.0","preDate":"2020-03-27"},"Npm":{"version":"6.14.5","date":"2020-05-05","preVersion":"6.14.4","preDate":"2020-03-25"},"Rollup":{"version":"2.10.0","date":"2020-05-13","preVersion":"2.3.3","preDate":"2020-04-05"},"webpack":{"version":"4.43.0","date":"2020-04-22","preVersion":"4.42.1","preDate":"2020-03-24"},"Eslit":{"version":"7.0.0","date":"2020-05-09","preVersion":"6.8.0","preDate":"2019-12-21"},"Puppeteer":{"version":"3.0.4","date":"2020-05-07","preVersion":"2.1.1","preDate":"2020-02-05"},"Chrome":{"version":"81","date":"April 7, 2020","preVersion":"80","preDate":"February 4, 2020"}}
+{
+  "Angular": {
+    "version": "1.8.0",
+    "date": "2020-06-05",
+    "preVersion": "1.7.9",
+    "preDate": "2019-11-19"
+  },
+  "Preact": {
+    "version": "10.4.6",
+    "date": "2020-07-15",
+    "preVersion": "10.4.1",
+    "preDate": "2020-04-21"
+  },
+  "Vuex": {
+    "version": "3.5.1",
+    "date": "2020-06-29",
+    "preVersion": "3.4.0",
+    "preDate": "2020-05-11"
+  },
+  "Node.Js": {
+    "version": "14.5.0",
+    "date": "2020-07-01",
+    "preVersion": "14.2.0",
+    "preDate": "2020-05-06"
+  },
+  "Npm": {
+    "version": "6.14.6",
+    "date": "2020-07-08",
+    "preVersion": "6.14.5",
+    "preDate": "2020-05-05"
+  },
+  "Rollup": {
+    "version": "2.22.1",
+    "date": "2020-07-19",
+    "preVersion": "2.10.0",
+    "preDate": "2020-05-13"
+  },
+  "Eslit": {
+    "version": "7.5.0",
+    "date": "2020-07-19",
+    "preVersion": "7.0.0",
+    "preDate": "2020-05-09"
+  },
+  "Puppeteer": {
+    "version": "5.2.0",
+    "date": "2020-07-17",
+    "preVersion": "3.0.4",
+    "preDate": "2020-05-07"
+  },
+  "Chrome": {
+    "version": "84",
+    "date": "July 14, 2020",
+    "preVersion": "81",
+    "preDate": "April 7, 2020"
+  }
+}
